@@ -21,9 +21,14 @@ steps to create a GitHub account:
 
 create a new repository in GitHub:
 
-Go to GitHub and sign in to your account.
-Click on the '+' icon in the upper right corner and select 'New repository' from the dropdown menu.
-In the 'Repository name' field, type a name for your new repository.
-You can choose to make the repository either public or private. Public repositories are visible to anyone, while private repositories are only visible to you and any collaborators you invite.
-If you want to add a README file, description, or .gitignore file, you can do so in the 'Add files' section.
-Once you've filled out the necessary information, click the 'Create repository' button.
+1. Go to GitHub and sign in to your account.
+2. Click on the '+' icon in the upper right corner and select 'New repository' from the dropdown menu.
+3. In the 'Repository name' field, type a name for your new repository which is 2202030400151.
+4. You can choose to make the repository either public or private. Public repositories are visible to anyone, while private repositories are only visible to you and any collaborators you invite.
+5. If you want to add a README file, description, or .gitignore file, you can do so in the 'Add files' section.
+6. Once you've filled out the necessary information, click the 'Create repository' button.
+
+
+then create folder named assignment-1 and assignment-2
+then go to reposetory and click on add file
+add assignment-1 and assignment-2 folder using drag-and-drop method 
