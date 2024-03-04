@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+  
+    /* font sizes */
+    --font-size-5xl: 24px;
+    --font-size-xl: 20px;
+  
+    /* Colors */
+    --color-midnightblue: #120a42;
+    --color-mistyrose: #ffd3d3;
+    --color-goldenrod: #e8aa0c;
+    --color-black: #000;
+  }

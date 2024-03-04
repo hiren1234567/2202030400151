@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global2.css" />
+    <link rel="stylesheet" href="./index2.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap"
+    />
+  </head>
+  <body>
+    <div class="desktop-1">
+      <header class="g5academy">&lt;/&gt;g5academy</header>
+      <div class="home">home</div>
+      <div class="search">search</div>
+      <div class="explore">explore</div>
+      <div class="feedback">feedback</div>
+      <div class="about-us">about us</div>
+      <img
+        class="feedback-link-line"
+        alt=""
+        src="./public/feedback-link-line.svg"
+      />
+
+      <img
+        class="desktop-1-child"
+        loading="lazy"
+        alt=""
+        src="./public/line-2.svg"
+      />
+
+      <img
+        class="gacademy-label-icon"
+        loading="lazy"
+        alt=""
+        src="./public/line-3.svg"
+      />
+
+      <div class="user-input-area"></div>
+      <img
+        class="gacademy-label-icon1"
+        loading="lazy"
+        alt=""
+        src="./public/line-5.svg"
+      />
+
+      <div class="create-an-account">create an account</div>
+      <div class="join-other-learners">
+        join other learners to with g5academy
+      </div>
+      <input class="gacademy-label" type="text" />
+
+      <input class="gacademy-label1" type="text" />
+
+      <input class="gacademy-label2" type="text" />
+
+      <div class="username">username</div>
+      <div class="email">email</div>
+      <div class="password">password</div>
+      <div class="by-signing-up-container">
+        <p class="by-signing-up">by signing up for g5academy you agree</p>
+        <p class="to-g5academys-terms">to g5academy’s terms of service &</p>
+        <p class="privacy-policy">privacy policy</p>
+      </div>
+      <div class="account-form-container"></div>
+      <div class="sign-up">sign up</div>
+    </div>
+  </body>
+</html>
